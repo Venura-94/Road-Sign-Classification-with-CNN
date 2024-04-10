@@ -1,0 +1,8 @@
+matplotlib
+numpy 
+tensorflow
+keras
+pandas 
+seaborn 
+pickle
+random
