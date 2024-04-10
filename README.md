@@ -43,12 +43,17 @@ By completing this project,
 - Assess the performance of the trained CNN using various key performance indicators (KPIs) such as accuracy, precision, and recall.
 
 
-
-![loss](https://github.com/Venura-94/Road-Sign-Classification-with-CNN/assets/137409412/b8f6c6dd-d371-4376-8c19-0c236948f15e)
-
+![output](https://github.com/Venura-94/Road-Sign-Classification-with-CNN/assets/137409412/b8fb4d00-4b88-4ec5-9301-3596e3ae8dbe)
 
 
-![accuracy](https://github.com/Venura-94/Road-Sign-Classification-with-CNN/assets/137409412/c5b53233-a41c-4aaf-8cc4-81c3829dfc45)
+![2](https://github.com/Venura-94/Road-Sign-Classification-with-CNN/assets/137409412/5874cf04-cf2a-4945-83c9-bd05f39d8374)
+
+
+
+
+
+
+
 
 - Final Model Prediction
 
