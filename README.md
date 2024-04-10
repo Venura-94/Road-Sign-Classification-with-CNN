@@ -69,7 +69,7 @@ By completing this project,
 
 - Then at last can access the model endpoint to get prediction
 
-## Summary to Tensorflow Serving Docker Conatainer
+## Summary to Tensorflow Serving Docker Container
 
 ![image](https://github.com/Venura-94/Road-Sign-Classification-with-CNN/assets/137409412/4ea86e60-41d8-4548-b446-82dc825ce26e)
 
@@ -84,12 +84,7 @@ By completing this project,
 50Mph - Class wrongly predicted due to different data set, not from the same distributions. Because model has made for different environment , therefore to improve this model need to look for different images and different techniques of optimizations.
 
 
-
 ![50 error analysis](https://github.com/Venura-94/Road-Sign-Classification-with-CNN/assets/137409412/f62da88b-1564-4b9f-8c32-cac43f0aebb7)
-
-
-
-
 
 
 - Final Model Prediction
