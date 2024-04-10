@@ -48,7 +48,44 @@ By completing this project,
 
 ![2](https://github.com/Venura-94/Road-Sign-Classification-with-CNN/assets/137409412/5874cf04-cf2a-4945-83c9-bd05f39d8374)
 
+## Deployment With Inference Pipeline to Get Predictions 
 
+- Here is the old school architecture for understanding
+  ![image](https://github.com/Venura-94/Road-Sign-Classification-with-CNN/assets/137409412/6e0b12ee-1d02-4662-bc09-438a46cecb74)
+
+## Docker Work in Step Wise
+
+- Save the model according to the tensorflow serving models
+
+- Pull image from the docker hub and create tensorflow serving image
+
+- Then execute docker run
+   - run docker container with tensorflow serving image
+   - then mount model directory to tensorflow model in to container
+   - add environment variables
+ 
+    ![Docker_Container](https://github.com/Venura-94/Road-Sign-Classification-with-CNN/assets/137409412/43a9c53d-9aaf-4594-8267-e135ecac7d4d)
+
+
+- Then at last can access the model endpoint to get prediction
+
+## Summary to Tensorflow Serving Docker Conatainer
+
+![image](https://github.com/Venura-94/Road-Sign-Classification-with-CNN/assets/137409412/4ea86e60-41d8-4548-b446-82dc825ce26e)
+
+
+## Predictions from User APP 
+
+30Mph - Class - 1 - Correct 
+
+![correct prediction](https://github.com/Venura-94/Road-Sign-Classification-with-CNN/assets/137409412/dc94fd37-127e-4db8-8571-cdbfa06669da)
+
+
+50Mph - Class wrongly predicted due to different data set, not from the same distributions. Because model has made for different environment , therefore to improve this model need to look for different images and different techniques of optimizations.
+
+
+
+![50 error analysis](https://github.com/Venura-94/Road-Sign-Classification-with-CNN/assets/137409412/f62da88b-1564-4b9f-8c32-cac43f0aebb7)
 
 
 
