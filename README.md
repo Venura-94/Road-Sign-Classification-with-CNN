@@ -5,7 +5,7 @@
 
 #### Note :: Data set is too large to add to the Github 
 
-In this hands-on project, i have trained deep learning models known as Convolutional Neural Networks (CNNs) to classify 43 traffic sign images. 
+In this project, I have trained deep learning models known as Convolutional Neural Networks (CNNs) to classify 43 traffic sign images. 
 This project has practical applications, particularly in the realm of self-driving cars.
 
 1. Import libraries and datasets.
