@@ -1,5 +1,8 @@
 # Road Sign Classification with Convolutional Neural Networks
 
+- Here is the old school architecture for understanding
+  ![image](https://github.com/Venura-94/Road-Sign-Classification-with-CNN/assets/137409412/6e0b12ee-1d02-4662-bc09-438a46cecb74)
+
 #### Note :: Data set is too large to add to the Github 
 
 In this hands-on project, i have trained deep learning models known as Convolutional Neural Networks (CNNs) to classify 43 traffic sign images. 
@@ -48,10 +51,6 @@ By completing this project,
 
 ![2](https://github.com/Venura-94/Road-Sign-Classification-with-CNN/assets/137409412/5874cf04-cf2a-4945-83c9-bd05f39d8374)
 
-## Deployment With Inference Pipeline to Get Predictions 
-
-- Here is the old school architecture for understanding
-  ![image](https://github.com/Venura-94/Road-Sign-Classification-with-CNN/assets/137409412/6e0b12ee-1d02-4662-bc09-438a46cecb74)
 
 ## Docker Work in Step Wise
 
